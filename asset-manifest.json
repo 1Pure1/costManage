@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/costManage/static/css/main.4de7d4f5.css",
+    "main.js": "/costManage/static/js/main.e28c7dca.js",
+    "index.html": "/costManage/index.html",
+    "main.4de7d4f5.css.map": "/costManage/static/css/main.4de7d4f5.css.map",
+    "main.e28c7dca.js.map": "/costManage/static/js/main.e28c7dca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4de7d4f5.css",
+    "static/js/main.e28c7dca.js"
+  ]
+}
